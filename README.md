@@ -1,6 +1,6 @@
 # A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification
 
-This repository contains the code and resources from the following [paper].(https://mounicam.github.io/WC_Lexicon_NRR.pdf)
+This repository contains the code and resources from the following [paper](https://mounicam.github.io/WC_Lexicon_NRR.pdf)
 
 
 ## Repo Structure: 
