@@ -9,7 +9,7 @@ from features.feature_extractor_sr import FeatureExtractorSR
 """
 This script performs substitution ranking using neural readability ranking model and word-complexity lexicon. For more 
 details, please take a look at the paper - "A Word Complexity Lexicon and A Neural Readability Ranking Model for Lexical
-Simplification" (TODO: link).
+Simplification" https://aclanthology.org/D18-1410.pdf.
 
 
 Arguments

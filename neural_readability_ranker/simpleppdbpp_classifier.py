@@ -7,7 +7,7 @@ from features.feature_extractor_simpleppdb import FeatureExtractorSimplePPDB
 """
 This script creates and runs the SimplePPDB++ classifier, which classifies a paraphrase rule as 'simplifying', 
 'complicating' or 'nonsense' rule. For more details, please take a look at the paper - "A Word Complexity Lexicon and 
-A Neural Readability Ranking Model for Lexical Simplification" (TODO: link).
+A Neural Readability Ranking Model for Lexical Simplification" https://aclanthology.org/D18-1410.pdf.
 
 
 Arguments
